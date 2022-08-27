@@ -6,8 +6,11 @@
   Dictionary With React 
   <br>
   <br>
-  <h2 align="center"><a href="[http://devmostafa.cloud/Dictionary/](http://devmostafa.cloud/Dictionary/)" target="_blank">Demo Of this project </a>.</h2>
-  http://devmostafa.cloud/Dictionary/
+  <h2 align="center">
+    <a href="[http://devmostafa.cloud/Dictionary/](http://devmostafa.cloud/Dictionary/)" target="_blank">Demo Of this project </a>
+    <h3 align="center" target="_blank"> http://devmostafa.cloud/Dictionary/ </h3>
+  </h2>
+  
    
 </h1>
 
